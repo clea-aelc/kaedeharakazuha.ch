@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "kaedehara kazuha"
-description = "rambling and ranting"
+title = "Babhel"
+description = "miscellany of monologues "
 footerLeft = ""
 footerRight = "[🏷️ Tags](/tags/) | [🗃️ Archive](/posts/) | [📣 Social](https://www.lilo.blog)"
 +++
