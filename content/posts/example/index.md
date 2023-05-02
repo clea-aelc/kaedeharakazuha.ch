@@ -4,7 +4,7 @@ date = "2023-05-02"
 draft = false
 pinned = false
 tags = []
-image = "bc4f48c5-baa4-43f6-a448-21971c3d61a4.jpeg"
+image = "bbe12f03-9839-4c1e-9c5e-8e9dbeddc45a.jpeg"
 description = "A short analysis of Donna Tartt‘s The Secret History."
 footnotes = ""
 +++
@@ -22,9 +22,9 @@ The novel is a masterful exploration of the themes of friendship, loyalty, moral
 
 "The Secret History" is a literary tour de force that has been praised for its skillful plotting, evocative prose, and rich characterizations. It is a novel that will keep readers engaged and guessing until the very end, and is a must-read for anyone who loves psychological thrillers or literary fiction.
 
-![Fanart](efa70558-4694-4d55-8c61-26faeeca288e.jpeg "In order: Bunny, Charles, Camilla, Henry, Richard and Francis ")
+![In order: Bunny, Charles, Camilla, Henry, Richard and Francis  (Fanart)](efa70558-4694-4d55-8c61-26faeeca288e.jpeg)
 
-### Greek Literature 
+### Greek Literature
 
 Greek literature and philosophy are central themes in Donna Tartt's "The Secret History". The novel explores the characters' **fascination with ancient Greek culture and their attempts to live according to the ideals of classical literature.**
 
@@ -32,7 +32,7 @@ The group of students in the novel are all studying Classics with their enigmati
 
 > “It's a very Greek idea, and a very profound one. **Beauty is terror. Whatever we call beautiful, we quiver before it. And what could be more terrifying and beautiful, to souls like the Greeks or our own, than to lose control completely?** To throw off the chains of being for an instant, to shatter the accident of our mortal selves? Euripides speaks of the Maenads: head thrown I back, throat to the stars, "more like deer than human being." To be absolutely free! One is quite capable, of course, of working out these destructive passions in more vulgar and less efficient ways. But how glorious to release them in a single burst! To sing, to scream, to dance barefoot in the woods in the dead of night, with no more awareness of mortality than an animal! These are powerful mysteries. The bellowing of bulls. Springs of honey bubbling from the ground. If we are strong enough in our souls we can rip away the veil and look that naked, terrible beauty right in the face; let God consume us, devour us, unstring our bones. Then spit us out reborn.”  
 >
-> *\- Donna Tartt, The Secret History*
+> *Donna Tartt, The Secret History*
 
 However, the characters' obsession with Greek literature also leads them down a dangerous path. Their pursuit of knowledge and understanding turns into a desire for power and control, and they become involved in a series of morally questionable activities, including drug use, secret rituals, and ultimately murder.
 
@@ -48,15 +48,13 @@ The group of students who commit the murder are a complex and nuanced group of c
 
 > „Forgive me, for all the things I did but mostly for the ones that I did not.” 
 >
-> *\- Donna Tartt, The Secret History*
+> *Donna Tartt, The Secret History*
 
 However, if one were to pinpoint a character who could be considered the primary antagonist of the story, it would likely be Bunny Corcoran. Bunny is a charismatic and likable member of the group, but he is also selfish, manipulative, and ultimately becomes the catalyst for the events that lead to the murder.
 
 It is important to note, however, that **the novel is not necessarily concerned with traditional notions of good and evil or hero and villain. Rather, it is an exploration of the complexities of human behavior and the darker aspects of human nature.**
 
-
-
-### The „dark academia“ genre
+### The „Dark Academia“ Genre
 
 "The Secret History" is considered a quintessential example of a "dark academia" novel. Dark academia is a subgenre of contemporary literature that typically involves stories set in academic institutions, where the characters are obsessed with intellectual pursuits and often engage in dark or morally questionable activities.
 
