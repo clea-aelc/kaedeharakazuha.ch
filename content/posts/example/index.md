@@ -30,15 +30,13 @@ Greek literature and philosophy are central themes in Donna Tartt's "The Secret 
 
 The group of students in the novel are all studying Classics with their enigmatic professor, *Julian Morrow*. They are deeply immersed in the works of ancient Greek philosophers and poets, and their conversations are peppered with references to Plato, Homer, and other Greek thinkers. They view themselves as part of an exclusive intellectual community, with a shared belief that the classics are the key to understanding the world and living a meaningful life.
 
-> “It's a very Greek idea, and a very profound one. **Beauty is terror. Whatever we call beautiful, we quiver before it. And what could be more terrifying and beautiful, to souls like the Greeks or our own, than to lose control completely?** To throw off the chains of being for an instant, to shatter the accident of our mortal selves? Euripides speaks of the Maenads: head thrown I back, throat to the stars, "more like deer than human being." To be absolutely free! One is quite capable, of course, of working out these destructive passions in more vulgar and less efficient ways. But how glorious to release them in a single burst! To sing, to scream, to dance barefoot in the woods in the dead of night, with no more awareness of mortality than an animal! These are powerful mysteries. The bellowing of bulls. Springs of honey bubbling from the ground. If we are strong enough in our souls we can rip away the veil and look that naked, terrible beauty right in the face; let God consume us, devour us, unstring our bones. Then spit us out reborn.”  
+> “It's a very Greek idea, and a very profound one. **Beauty is terror. Whatever we call beautiful, we quiver before it. And what could be more terrifying and beautiful, to souls like the Greeks or our own, than to lose control completely**.”  
 >
 > *Donna Tartt, The Secret History*
 
 However, the characters' obsession with Greek literature also leads them down a dangerous path. Their pursuit of knowledge and understanding turns into a desire for power and control, and they become involved in a series of morally questionable activities, including drug use, secret rituals, and ultimately murder.
 
 **The novel uses the Greek literary theme to explore deeper questions about the nature of morality, the dangers of intellectualism, and the human desire for meaning and purpose. It also serves as a commentary on the power of literature to shape and influence our lives, and the dangers of taking those influences too far.**
-
-
 
 ### The Concept of Villainy
 
