@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
+name = "cl3a p@rav1c1n1"
 image = ""
-url = "/about/"
+url = "/about/ sunghoon enthusiast "
 +++
